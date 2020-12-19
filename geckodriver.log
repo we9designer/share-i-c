@@ -1,0 +1,18 @@
+1608409387913	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SVLiEXIOxzFp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608409389408	Marionette	INFO	Listening on port 40403
+1608409389439	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.instagram.com/static/bundles/metro/Consumer.js/4f9acf048d29.js, line 14: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://www.instagram.com/static/bundles/metro/Consumer.js/4f9acf048d29.js, line 14: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1608409461012	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JygG3yTo6kia"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608409462735	Marionette	INFO	Listening on port 39657
+1608409462836	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.instagram.com/static/bundles/metro/Consumer.js/4f9acf048d29.js, line 14: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://www.instagram.com/static/bundles/metro/Consumer.js/4f9acf048d29.js, line 14: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
